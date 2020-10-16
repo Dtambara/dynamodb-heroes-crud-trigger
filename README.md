@@ -1,0 +1,1 @@
+# dynamodb-heroes-crud-trigger
